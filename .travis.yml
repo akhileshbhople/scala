@@ -1,4 +1,5 @@
 # GCE VMs have better performance (will be upgrading to premium VMs soon)
+os: linux-ppc64le
 sudo: required
 
 language: scala
